@@ -1,3 +1,4 @@
+package DebuggingExercises;
 // DebugSix4.java
 // Displays 5 random numbers between 
 // (and including) user-specified values

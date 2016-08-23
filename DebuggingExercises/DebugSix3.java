@@ -3,6 +3,7 @@
 // Value must be between 1 and 20 inclusive
 // At command line, count down to blastoff
 // With a brief pause between each displayed value
+package DebuggingExercises;
 import javax.swing.*;
 public class DebugSix3
 {
