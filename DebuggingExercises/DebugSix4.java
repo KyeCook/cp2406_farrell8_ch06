@@ -26,6 +26,7 @@ public class DebugSix4
          high = input.nextInt();
       }
 
+      count = 0;
       while(count < low)
       {
          double result = Math.random();
